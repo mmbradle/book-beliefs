@@ -1,9 +1,9 @@
 --- 
-title: "Beliefs"
+title: "Our Beliefs"
 author: "Michael James Bradley"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Preface {-}
 
